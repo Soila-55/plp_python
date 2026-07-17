@@ -1,0 +1,5 @@
+print("Welcome to the Bug Hunt!)
+name = input("What is your name? ")
+print("Nice to meet you, nmae")
+age = input("How old are you? ")
+print("Next year you will be " + age + 1)
